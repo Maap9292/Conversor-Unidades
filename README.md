@@ -4,17 +4,17 @@
 
 ## :mag_right: Indice
 
-- [Descripción del proyecto](https://github.com/Maap9292/Conversor-Unidades#Descripción-del-Proyecto)
-- [Carácteristicas y demostración del programa](https://github.com/Maap9292/Conversor-Unidades#Caracteristicas-y-Demostración-del-Programa)
-- [Tecnologías Utilizadas](https://github.com/Maap9292/Conversor-Unidades#Tecnologías-Utilizadas)
+- [Descripción del proyecto](https://github.com/Maap9292/Conversor-Unidades#open_file_folderDescripción-del-Proyecto)
+- [Carácteristicas y demostración del programa](https://github.com/Maap9292/Conversor-Unidades#booksCaracteristicas-y-Demostración-del-Programa)
+- [Tecnologías Utilizadas](https://github.com/Maap9292/Conversor-Unidades#computerTecnologías-Utilizadas)
 - [Autores](https://github.com/Maap9292/Conversor-Unidades#zapAutores)
 
-## :open_file_folder: Descripción del Proyecto
+## :open_file_folder:Descripción del Proyecto
 Proyecto basado en el Challenge de Alura Latam-Oracle Grupo 4 "Conversor monedas". El conversor desarrollado permite la conversión de unidades tales como; monedas, temperaturas y medidas.
 
 El conversor de monedas arroja el cambio según la tasa de cambio, o Exchange rate, en tiempo real, lo que garantiza que el valor sea utilizado con total confianza por parte del usuario. 
 
-## :books: Caracteristicas y Demostración del Programa
+## :books:Caracteristicas y Demostración del Programa
 
 - `Menú Principal`: el menú principal permite seleccionar el tipo de conversor al que se desea acceder, la selección se realiza a través de una lista desplegable que contiene los conversores disponibles.
 
@@ -37,7 +37,7 @@ El conversor de monedas arroja el cambio según la tasa de cambio, o Exchange ra
 ![screen-capture (4) (1)](https://user-images.githubusercontent.com/119032224/228065419-7898e8db-3f71-4624-a736-b822407df367.gif)
 
 
-## :computer: Tecnologías Utilizadas
+## :computer:Tecnologías Utilizadas
 Para realizar el programa se utilizaron las siguientes tecnologías:
 
 - Lenguaje de programación: JAVA
