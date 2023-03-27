@@ -15,7 +15,7 @@
          </font></Button>
       <TextField fx:id="valor" layoutX="226.0" layoutY="148.0" style="-fx-background-color: grey;" />
       <ChoiceBox fx:id="panelConversorMonedas" layoutX="225.0" layoutY="72.0" prefWidth="150.0" />
-      <Label fx:id="resultado" alignment="CENTER" contentDisplay="CENTER" layoutX="196.0" layoutY="270.0" opacity="0.55" prefHeight="17.0" prefWidth="209.0" textAlignment="CENTER" textFill="RED">
+      <Label fx:id="resultado" alignment="CENTER" contentDisplay="CENTER" layoutX="53.0" layoutY="270.0" opacity="0.55" prefHeight="26.0" prefWidth="496.0" textAlignment="CENTER" textFill="RED">
          <font>
             <Font size="17.0" />
          </font></Label>
