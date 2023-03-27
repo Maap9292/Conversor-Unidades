@@ -4,7 +4,7 @@
 
 ## :mag_right: Indice
 
-- [Descripción del proyecto](#Descripcion)
+- [Descripción del proyecto](#Descripcion_del_Proyecto)
 - [Carácteristicas y demostración del programa](#Caracteristicas_y_Demostración_del_Programa)
 - [Tecnologías Utilizadas](#Tecnologías_Utilizadas)
 - [Autores](#Autores)
