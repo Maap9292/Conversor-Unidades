@@ -45,7 +45,7 @@ Para realizar el programa se utilizaron las siguientes tecnologías:
 - GUI: JavaFx - SceneBuilder
 - API conversor de monedas: https://apilayer.com/marketplace/exchangerates_data-api#
 
-## :zap: Autores
+## Autores
 
 <img src="https://user-images.githubusercontent.com/119032224/228069701-5435a990-0de8-45e8-87b0-d15a0f90895a.jpg" width=120><br><sub>Mauricio Alvergue</sub>
 | :---: |
