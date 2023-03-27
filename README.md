@@ -4,10 +4,10 @@
 
 ## :mag_right: Indice
 
-- [Descripción del proyecto](##Descripcion_del_Proyecto)
-- [Carácteristicas y demostración del programa](#Caracteristicas_y_Demostración_del_Programa)
-- [Tecnologías Utilizadas](#Tecnologías_Utilizadas)
-- [Autores](##Autores)
+*[Descripción del proyecto](##Descripcion_del_Proyecto)
+*[Carácteristicas y demostración del programa](#Caracteristicas_y_Demostración_del_Programa)
+*[Tecnologías Utilizadas](#Tecnologías_Utilizadas)
+*[Autores](##Autores)
 
 ## :open_file_folder: Descripción del Proyecto
 Proyecto basado en el Challenge de Alura Latam-Oracle Grupo 4 "Conversor monedas". El conversor desarrollado permite la conversión de unidades tales como; monedas, temperaturas y medidas.
