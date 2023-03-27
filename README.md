@@ -7,7 +7,7 @@
 - [Descripción del proyecto](https://github.com/Maap9292/Conversor-Unidades#Descripción-del-Proyecto)
 - [Carácteristicas y demostración del programa](https://github.com/Maap9292/Conversor-Unidades#Caracteristicas-y-Demostración-del-Programa)
 - [Tecnologías Utilizadas](https://github.com/Maap9292/Conversor-Unidades#Tecnologías-Utilizadas)
-- [Autores](https://github.com/Maap9292/Conversor-Unidades#:zap: Autores)
+- [Autores](https://github.com/Maap9292/Conversor-Unidades#:zap:-Autores)
 
 ## :open_file_folder: Descripción del Proyecto
 Proyecto basado en el Challenge de Alura Latam-Oracle Grupo 4 "Conversor monedas". El conversor desarrollado permite la conversión de unidades tales como; monedas, temperaturas y medidas.
