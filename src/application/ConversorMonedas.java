@@ -86,9 +86,9 @@ public class ConversorMonedas implements Initializable {
 		}
 	}
 	
-	public void convertirValor(double conver) { //muestra el resultado de la operación en el textfield
+	public void convertirValor(double conver, String simbolo) { //muestra el resultado de la operación en el textfield
 		String convers = String.valueOf(conver);
-		resultado.setText("El resultado es " +convers);
+		resultado.setText("El resultado es " + simbolo +" " +convers);
 	}
 	
 	public void conversor(ActionEvent event) {
@@ -105,56 +105,56 @@ public class ConversorMonedas implements Initializable {
 				case "USD-EUR": {
 					apiQuery("EUR", "USD", valorConvertido);
 					double conver = Math.round(((valorConvertido) * valorfinal)*100.0)/100.0;
-					convertirValor(conver);
+					convertirValor(conver, "EUR");
 					break;
 				}
 				
 				case "USD-GBR": {
 					apiQuery("GBP", "USD", valorConvertido);
 					double conver = Math.round(((valorConvertido) * valorfinal)*100.0)/100.0;
-					convertirValor(conver);
+					convertirValor(conver, "GBP");
 					break;
 				}
 				
 				case "USD-YEN": {
 					apiQuery("JPY", "USD", valorConvertido);
 					double conver = Math.round(((valorConvertido) * valorfinal)*100.0)/100.0;
-					convertirValor(conver);
+					convertirValor(conver, "JPY");
 					break;
 				}
 			
 				case "USD-WON": {
 					apiQuery("KRW", "USD", valorConvertido);
 					double conver = Math.round(((valorConvertido) * valorfinal)*100.0)/100.0;
-					convertirValor(conver);
+					convertirValor(conver, "KRW");
 					break;
 				}
 				
 				case "EUR-USD": {
 					apiQuery("USD", "EUR", valorConvertido);
 					double conver = Math.round(((valorConvertido) * valorfinal)*100.0)/100.0;
-					convertirValor(conver);
+					convertirValor(conver, "USD");
 					break;
 				}
 				
 				case "GBR-USD": {
 					apiQuery("USD", "GBP", valorConvertido);
 					double conver = Math.round(((valorConvertido) * valorfinal)*100.0)/100.0;
-					convertirValor(conver);
+					convertirValor(conver, "USD");
 					break;
 				}
 				
 				case "WON-USD": {
 					apiQuery("USD", "KRW", valorConvertido);
 					double conver = Math.round(((valorConvertido) * valorfinal)*100.0)/100.0;
-					convertirValor(conver);
+					convertirValor(conver, "USD");
 					break;
 				}
 				
 				case "YEN-USD": {
 					apiQuery("USD", "JPY", valorConvertido);
 					double conver = Math.round(((valorConvertido) * valorfinal)*100.0)/100.0;
-					convertirValor(conver);
+					convertirValor(conver, "USD");
 					break;
 				}		
 			}		

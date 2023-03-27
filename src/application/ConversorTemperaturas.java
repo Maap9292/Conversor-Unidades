@@ -41,37 +41,37 @@ public class ConversorTemperaturas extends ConversorMonedas implements Initializ
 			
 				case "Célsius - Farenheit": {
 					double conver = (valorConvertido *1.8)+32;
-					convertirValor(conver);
+					convertirValor(conver, "F°");
 					break;
 				}
 				
 				case "Farenheit - Célsius": {
 					double conver = (valorConvertido-32)/1.8;
-					convertirValor(conver);
+					convertirValor(conver, "C°");
 					break;
 				}
 				
 				case "Célsius - Kelvin": {
 					double conver = (valorConvertido+273.15);
-					convertirValor(conver);
+					convertirValor(conver, "K");
 					break;
 				}
 				
 				case "Kelvin - Célsius": {
 					double conver = (valorConvertido-273.15);
-					convertirValor(conver);
+					convertirValor(conver, "C°");
 					break;
 				}
 				
 				case "Farenheit - Kelvin": {
 					double conver = ((0.555555)*(valorConvertido-32))+273.15;
-					convertirValor(conver);
+					convertirValor(conver, "K");
 					break;
 				}
 				
 				case "Kelvin - Farenheit": {
 					double conver = ((1.8)*(valorConvertido-273.15))+32;
-					convertirValor(conver);
+					convertirValor(conver, "F°");
 					break;
 				}	
 			}		

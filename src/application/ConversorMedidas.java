@@ -40,26 +40,26 @@ public class ConversorMedidas extends ConversorMonedas implements Initializable 
 			switch (med) {
 			
 				case "Metros - Centímetros": {
-					double conver = (valorConvertido/100) ;
-					convertirValor(conver);
+					double conver = (valorConvertido*100) ;
+					convertirValor(conver, "CM");
 					break;
 				}
 				
 				case "Centímetros - Metros": {
-					double conver = (valorConvertido*100);
-					convertirValor(conver);
+					double conver = (valorConvertido/100);
+					convertirValor(conver, "MTRS");
 					break;
 				}
 				
 				case "Metros - Kilómetros": {
 					double conver = (valorConvertido/1000);
-					convertirValor(conver);
+					convertirValor(conver, "KM");
 					break;
 				}
 				
 				case "Kilómetros - Metros": {
 					double conver = (valorConvertido*1000);
-					convertirValor(conver);
+					convertirValor(conver, "MTRS");
 				}
 			}			
 		}
