@@ -7,7 +7,7 @@
 - [Descripción del proyecto](https://github.com/Maap9292/Conversor-Unidades#Descripción-del-Proyecto)
 - [Carácteristicas y demostración del programa](https://github.com/Maap9292/Conversor-Unidades#Caracteristicas-y-Demostración-del-Programa)
 - [Tecnologías Utilizadas](https://github.com/Maap9292/Conversor-Unidades#Tecnologías-Utilizadas)
-- [Autores](https://github.com/Maap9292/Conversor-Unidades#Autores)
+- [Autores](https://github.com/Maap9292/Conversor-Unidades#:zap: Autores)
 
 ## :open_file_folder: Descripción del Proyecto
 Proyecto basado en el Challenge de Alura Latam-Oracle Grupo 4 "Conversor monedas". El conversor desarrollado permite la conversión de unidades tales como; monedas, temperaturas y medidas.
@@ -45,7 +45,7 @@ Para realizar el programa se utilizaron las siguientes tecnologías:
 - GUI: JavaFx - SceneBuilder
 - API conversor de monedas: https://apilayer.com/marketplace/exchangerates_data-api#
 
-## Autores
+## :zap: Autores
 
 <img src="https://user-images.githubusercontent.com/119032224/228069701-5435a990-0de8-45e8-87b0-d15a0f90895a.jpg" width=120><br><sub>Mauricio Alvergue</sub>
 | :---: |
