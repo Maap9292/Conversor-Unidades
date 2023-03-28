@@ -5,7 +5,7 @@
 ## :mag_right: Indice
 
 - [Descripción del proyecto](https://github.com/Maap9292/Conversor-Unidades#open_file_folderDescripción-del-Proyecto)
-- [Carácteristicas y demostración del programa](https://github.com/Maap9292/Conversor-Unidades#booksCaracteristicas-y-Demostración-del-Programa)
+- [Características y demostración del programa](https://github.com/Maap9292/Conversor-Unidades#booksCaracterísticas-y-Demostración-del-Programa)
 - [Tecnologías Utilizadas](https://github.com/Maap9292/Conversor-Unidades#computerTecnologías-Utilizadas)
 - [Autores](https://github.com/Maap9292/Conversor-Unidades#zapAutores)
 
@@ -14,7 +14,7 @@ Proyecto basado en el Challenge de Alura Latam-Oracle Grupo 4 "Conversor monedas
 
 El conversor de monedas arroja el cambio según la tasa de cambio, o Exchange rate, en tiempo real, lo que garantiza que el valor sea utilizado con total confianza por parte del usuario. 
 
-## :books:Caracteristicas y Demostración del Programa
+## :books:Características y Demostración del Programa
 
 - `Menú Principal`: el menú principal permite seleccionar el tipo de conversor al que se desea acceder, la selección se realiza a través de una lista desplegable que contiene los conversores disponibles.
 
